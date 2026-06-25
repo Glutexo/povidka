@@ -14,6 +14,15 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 - Při větších úpravách zachovejte původní záměr scény, postav a vypravěčský hlas.
 - Pokud úprava mění děj, motivaci postav nebo strukturu příběhu, popište důvod změny ve zprávě commitu.
 
+## Kapitoly
+
+- Kapitoly ukládejte do složky `kapitoly/`.
+- Každá kapitola patří do vlastního markdownového souboru.
+- Soubor kapitoly pojmenujte jen pořadovým číslem, například `01.md`, `02.md` nebo `03.md`.
+- Kapitola nesmí mít nadpis ani jiný název.
+- Na začátku kapitoly musí být přesně tři krátké výstřižky z obsahu, každý o jednom až třech slovech.
+- Výstřižky zapisujte jako první tři řádky kapitoly ve formátu citace Markdownu; slouží zároveň jako stručná dokumentace obsahu.
+
 ## Licence
 
 Obsah repozitáře je uvolněn pod licencí CC0 1.0 Universal. Podrobnosti jsou v souboru `LICENSE.md`.
