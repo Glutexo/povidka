@@ -5,6 +5,7 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 ## Jazyk
 
 - Veškerý obsah repozitáře má být v češtině.
+- To platí i pro názvy souborů a složek: používejte česká slova s běžnou diakritikou všude, kde k nim patří.
 - Text povídky má používat srozumitelný, přirozený jazyk.
 - Pravopisné, stylistické a typografické úpravy jsou vítané, pokud nemění zamýšlený význam textu.
 
@@ -14,7 +15,7 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 - Při větších úpravách zachovejte původní záměr scény, postav a vypravěčský hlas.
 - Pokud úprava mění děj, motivaci postav nebo strukturu příběhu, popište důvod změny ve zprávě commitu.
 - Při práci s inspiračními zdroji respektujte poznámky v souboru `INSPIRACE.md`.
-- Základní námět, tón a průběžnou osnovu udržujte v souboru `NAMET.md`.
+- Základní námět, tón a průběžnou osnovu udržujte v souboru `NÁMĚT.md`.
 
 ## Kapitoly
 
@@ -29,4 +30,4 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 
 ## Licence
 
-Obsah repozitáře je uvolněn pod licencí CC0 1.0 Universal. Podrobnosti jsou v souboru `LICENSE.md`.
+Obsah repozitáře je uvolněn pod licencí CC0 1.0 Universal. Podrobnosti jsou v souboru `LICENCE.md`.
