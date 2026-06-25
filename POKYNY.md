@@ -22,6 +22,8 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 - Kapitola nesmí mít nadpis ani jiný název.
 - Na začátku kapitoly musí být přesně tři krátké výstřižky z obsahu, každý o jednom až třech slovech.
 - Výstřižky zapisujte jako první tři řádky kapitoly ve formátu citace Markdownu; slouží zároveň jako stručná dokumentace obsahu.
+- Výstřižky mají připomínat krátká obsahová návěští ve stylu Výletů pana Broučka nebo Domu o tisíci patrech: věcná, úsečná, lehce tajuplná, spíš náznak než moderní anotaci.
+- Výstřižky nejsou citace z těchto knih; mají pouze navazovat na jejich způsob stručného navnadění čtenáře.
 
 ## Licence
 
