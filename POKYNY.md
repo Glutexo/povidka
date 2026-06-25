@@ -14,6 +14,7 @@ Tento repozitář slouží k přípravě, úpravám a uchování česky psané p
 - Při větších úpravách zachovejte původní záměr scény, postav a vypravěčský hlas.
 - Pokud úprava mění děj, motivaci postav nebo strukturu příběhu, popište důvod změny ve zprávě commitu.
 - Při práci s inspiračními zdroji respektujte poznámky v souboru `INSPIRACE.md`.
+- Základní námět, tón a průběžnou osnovu udržujte v souboru `NAMET.md`.
 
 ## Kapitoly
 
